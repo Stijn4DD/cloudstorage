@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='cloudstorage',
-    version='0.65',
+    version='r127',
     description='',
     author='Google',
     packages = find_packages('src'),
